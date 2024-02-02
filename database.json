@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Harshita",
+    "phone": "1234567890",
+    "city": "Uttar Pradesh"
+  },
+  {
+    "id": 2,
+    "name": "Deepanshi",
+    "phone": "0987654321",
+    "city": "Delhi"
+  },
+  {
+    "id": 3,
+    "name": "Monu",
+    "phone": "1230987892",
+    "city": "Mumbai"
+  },
+  {
+    "id": 4,
+    "name": "Monika",
+    "phone": "1230787892",
+    "city": "Mumbai"
+  }
+]
